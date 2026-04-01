@@ -43,7 +43,7 @@ var init = function (window) {
         drawCircle()
         drawCircle()
         drawCircle()
-        drawCircle
+        drawCircle()
 
             
 
